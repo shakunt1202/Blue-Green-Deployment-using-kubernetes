@@ -3,6 +3,6 @@ bases:
 - ../demo/deployment/green
 - ../demo/service/
 resources:
-    - ns.yaml
+    - namespace.yaml
     - ingresscontrol.yaml
     - ingresscontrolstage.yaml
